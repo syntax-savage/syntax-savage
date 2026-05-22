@@ -9,12 +9,12 @@
 <br/>
 
 <!-- Profile Badges -->
-<a href="https://github.com/your-username?tab=followers">
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1b27&logo=github" alt="GitHub Followers">
+<a href="https://github.com/OverflowX-tech?tab=followers">
+  <img src="https://img.shields.io/github/followers/OverflowX-tech?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1b27&logo=github" alt="GitHub Followers">
 </a>
-<img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views">
-<a href="https://github.com/your-username?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-8+-45B7D1?style=for-the-badge&labelColor=1a1b27&logo=rocket" alt="Projects">
+<img src="https://komarev.com/ghpvc/?username=OverflowX-tech&label=PROFILE+VIEWS&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views">
+<a href="https://github.com/OverflowX-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-5-45B7D1?style=for-the-badge&labelColor=1a1b27&logo=github" alt="Repositories">
 </a>
 
 </div>
@@ -45,7 +45,7 @@ const jimmy = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&area_color=4ECDC4&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OverflowX-tech&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&area_color=4ECDC4&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
@@ -59,14 +59,14 @@ const jimmy = {
 
 <div align="center">
 
-<!-- Skill Icons - Much cooler than badges -->
+<!-- Skill Icons -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,android,aws,gcp,azure,firebase,git,gradle,mysql&theme=dark&perline=7" alt="Tech Stack"/>
 </a>
 
 <br/><br/>
 
-<!-- Detailed Skill Breakdown with progress-style layout -->
+<!-- Detailed Skill Breakdown -->
 <table>
 <tr>
 <td width="50%">
@@ -132,7 +132,7 @@ const jimmy = {
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🏦-LoanWise_v2-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="LoanWise"/>
+### <a href="https://github.com/OverflowX-tech/loanwise"><img src="https://img.shields.io/badge/🏦-LoanWise_v2-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="LoanWise"/></a>
 
 > #### *"Pay off student loans smarter, not harder."*
 
@@ -153,37 +153,7 @@ const jimmy = {
 
 **Tech:** `React` · `Node.js` · `Firebase` · `SQL` · `Chart.js`
 
-</details>
-
-</td>
-</tr>
-</table>
-
-<!-- Project 2: EarlyDetect AI -->
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🩺-EarlyDetect_AI-4ECDC4?style=for-the-badge&labelColor=1a1b27" alt="EarlyDetect AI"/>
-
-> #### *"Identify early warning signs of serious diseases using advanced AI."*
-
-💡 **The Problem:** Late diagnosis is the #1 killer. By the time most people see a doctor, diseases have progressed past the point of easy treatment. Accessible preliminary screening barely exists.
-
-🚀 **The Solution:** EarlyDetect AI uses **machine learning models** trained on medical data to flag potential early warning signs from user symptoms — democratizing access to preventive healthcare.
-
-<details>
-<summary>🔍 <b>View Details</b></summary>
-<br/>
-
-| Feature | Description |
-|:---|:---|
-| 🤖 AI Symptom Analysis | ML-powered analysis that learns and improves over time |
-| 📊 Risk Assessment | Color-coded severity scoring with confidence levels |
-| 📈 Health Trend Monitor | Track symptoms over time to spot concerning patterns |
-| 🏥 Doctor Referral System | Connects users with specialists based on AI findings |
-
-**Tech:** `React` · `Node.js` · `AWS` · `Python` · `TensorFlow`
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/loanwise)
 
 </details>
 
@@ -191,50 +161,18 @@ const jimmy = {
 </tr>
 </table>
 
-<!-- Project 3: Unstuck AI -->
+<!-- Project 2: G-A-I-A -->
 <table>
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🧠-Unstuck_AI-45B7D1?style=for-the-badge&labelColor=1a1b27" alt="Unstuck AI"/>
-
-> #### *"Turn messy thinking into clear action in seconds."*
-
-💡 **The Problem:** Analysis paralysis affects millions. People have great ideas but get stuck in overthinking loops, never moving from thought to action. Traditional to-do apps don't address the root cause.
-
-🚀 **The Solution:** Dump your messy, tangled thoughts into Unstuck, and the AI **instantly organizes them** into clear, prioritized, actionable steps — turning mental chaos into a structured plan.
-
-<details>
-<summary>🔍 <b>View Details</b></summary>
-<br/>
-
-| Feature | Description |
-|:---|:---|
-| 🌀 Thought Dump | Free-form input — type, paste, or voice your raw thoughts |
-| ✅ AI Action Generator | Transforms chaos into numbered, prioritized action steps |
-| 📋 Progress Tracking | Visual progress bars and milestone celebrations |
-| 🔄 Iterative Refinement | AI refines plans based on your feedback and progress |
-
-**Tech:** `React` · `Node.js` · `GCP` · `OpenAI API`
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<!-- Project 4: Aidfluence -->
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/💚-Aidfluence-2ECC71?style=for-the-badge&labelColor=1a1b27" alt="Aidfluence"/>
+### <a href="https://github.com/OverflowX-tech/G-A-I-A"><img src="https://img.shields.io/badge/🌍-G--A--I--A-4ECDC4?style=for-the-badge&labelColor=1a1b27" alt="G-A-I-A"/></a>
 
 > #### *"AI-powered insights to predict where help is needed most."*
 
 💡 **The Problem:** Billions in humanitarian aid are wasted annually due to poor allocation. Resources go where cameras are pointing, not where they're needed most.
 
-🚀 **The Solution:** Aidfluence uses **predictive AI and satellite data** to identify at-risk communities *before* disaster strikes — helping NGOs and donors allocate resources with surgical precision.
+🚀 **The Solution:** G-A-I-A uses **predictive AI and data analytics** to identify at-risk communities *before* disaster strikes — helping NGOs and donors allocate resources with surgical precision.
 
 <details>
 <summary>🔍 <b>View Details</b></summary>
@@ -249,39 +187,7 @@ const jimmy = {
 
 **Tech:** `React` · `Node.js` · `Azure` · `Firebase` · `ML Models`
 
-</details>
-
-</td>
-</tr>
-</table>
-
-<!-- Project 5: SideWork -->
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/💼-SideWork-F39C12?style=for-the-badge&labelColor=1a1b27" alt="SideWork"/>
-
-> #### *"The safest way for school students to find local jobs, with parent approval."*
-
-💡 **The Problem:** Young students want to earn money and learn responsibility, but there's no safe, structured platform for minors to find age-appropriate work. Parents worry. Students miss out.
-
-🚀 **The Solution:** SideWork is a **parent-approved job marketplace** for school students. Every listing is vetted, every hire requires parental consent, and earnings are tracked transparently.
-
-<details>
-<summary>🔍 <b>View Details</b></summary>
-<br/>
-
-| Feature | Description |
-|:---|:---|
-| 👨‍👩‍👧 Parent Approval | Built-in parental consent workflow for every job |
-| ✅ Vetted Listings | Age-appropriate jobs verified by the platform |
-| 💬 Safe Messaging | Monitored in-app messaging between students and employers |
-| 💰 Earnings Tracker | Financial literacy dashboard tracking income and savings |
-
-**Tech:** `Android` · `Java` · `Firebase` · `Node.js`
-
-❤️ **2 Likes** on portfolio
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/G-A-I-A)
 
 </details>
 
@@ -289,18 +195,18 @@ const jimmy = {
 </tr>
 </table>
 
-<!-- Project 6: MySymptoms -->
+<!-- Project 3: NullByte -->
 <table>
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🏥-MySymptoms_App_v1.0.0-E74C3C?style=for-the-badge&labelColor=1a1b27" alt="MySymptoms"/>
+### <a href="https://github.com/OverflowX-tech/NullByte"><img src="https://img.shields.io/badge/🧠-NullByte-45B7D1?style=for-the-badge&labelColor=1a1b27" alt="NullByte"/></a>
 
-> #### *"A digital triage center replacing scary searches with reliable AI guidance."*
+> #### *"Zero in on bugs. Zero tolerance for broken code."*
 
-💡 **The Problem:** Googling symptoms leads to panic. "Headache" becomes "brain tumor" in 3 clicks. People either ignore real issues or flood ERs with anxiety. There's no middle ground.
+💡 **The Problem:** Developers spend up to 50% of their time debugging. Traditional debugging tools are clunky, fragmented, and require context-switching between multiple windows and tools.
 
-🚀 **The Solution:** MySymptoms provides **calm, clinically-informed AI triage**. It asks smart follow-up questions, assesses severity, and tells you *exactly* when you need to see a doctor — and when you can relax.
+🚀 **The Solution:** NullByte provides an **intelligent debugging and code analysis toolkit** that helps developers identify, understand, and fix issues faster — turning hours of debugging into minutes.
 
 <details>
 <summary>🔍 <b>View Details</b></summary>
@@ -308,82 +214,14 @@ const jimmy = {
 
 | Feature | Description |
 |:---|:---|
-| 💬 Conversational Checker | Chat-style interface that feels like talking to a nurse |
-| 🚦 Severity Assessment | Green/Yellow/Red urgency classification |
-| 📍 Clinic Finder | Nearby healthcare facilities based on your location |
-| 📋 Medical History | Persistent health profile for better future assessments |
+| 🔍 Smart Error Analysis | AI-powered root cause analysis for faster debugging |
+| 📊 Code Health Dashboard | Visual overview of code quality metrics and trends |
+| 🧪 Automated Testing | Intelligent test generation for edge cases |
+| ⚡ Quick Fixes | One-click suggested fixes for common issues |
 
-**Tech:** `Android` · `Java` · `XML` · `Firebase` · `AI/ML`
+**Tech:** `JavaScript` · `Node.js` · `Git` · `AI/ML`
 
-❤️ **2 Likes** on portfolio
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<!-- Project 7: PlanetAI -->
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🌌-PlanetAI_—_Voyage_Beyond-9B59B6?style=for-the-badge&labelColor=1a1b27" alt="PlanetAI"/>
-
-> #### *"Experience the majesty of the cosmos through real-time data and interactive 3D exploration."*
-
-💡 **The Problem:** Space education is stuck in textbooks. The universe is the most spectacular thing that exists, yet most people experience it through boring slideshows and dense Wikipedia articles.
-
-🚀 **The Solution:** PlanetAI is an **immersive 3D space exploration platform** powered by real-time NASA data. Fly through the solar system, orbit planets, and learn through awe — not memorization.
-
-<details>
-<summary>🔍 <b>View Details</b></summary>
-<br/>
-
-| Feature | Description |
-|:---|:---|
-| 🪐 Interactive 3D Solar System | Fully navigable 3D environment with realistic physics |
-| 📡 Real-Time Data | Live planetary positions and astronomical events from NASA |
-| 🎓 Educational Mode | Curated learning paths for students and space enthusiasts |
-| 📱 Responsive Design | Works beautifully on desktop, tablet, and mobile |
-
-**Tech:** `React` · `Three.js` · `NASA APIs` · `Node.js` · `WebGL`
-
-💬 **2 Comments** on portfolio
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<!-- Project 8: MedIntelli -->
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🧬-MedIntelli_Web_v1.2.0-1ABC9C?style=for-the-badge&labelColor=1a1b27" alt="MedIntelli"/>
-
-> #### *"A simple AI assistant that helps you check symptoms and get instant health insights."*
-
-💡 **The Problem:** Not everyone has an Android phone. The MySymptoms ecosystem needed a cross-platform solution accessible from any device with a browser — simple enough for grandparents, powerful enough for doctors.
-
-🚀 **The Solution:** MedIntelli Web brings the full power of AI symptom checking to the browser. **Zero downloads. Zero friction.** Just open and start checking.
-
-<details>
-<summary>🔍 <b>View Details</b></summary>
-<br/>
-
-| Feature | Description |
-|:---|:---|
-| 🌐 Web-Based Checker | No installation needed — works on any modern browser |
-| 🤖 AI Health Insights | Powered by the same ML models as the mobile app |
-| 📄 Report Generation | Downloadable health reports to share with your doctor |
-| 🎨 Minimal UI | Clean, calming interface designed to reduce health anxiety |
-
-**Tech:** `React` · `Node.js` · `Firebase` · `GCP` · `AI/ML`
-
-❤️ **1 Like** on portfolio
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/NullByte)
 
 </details>
 
@@ -402,12 +240,12 @@ const jimmy = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=c9d1d9" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=OverflowX-tech&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=c9d1d9" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverflowX-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9" alt="Top Languages" height="180">
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=4ECDC4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OverflowX-tech&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=4ECDC4)](https://git.io/streak-stats)
 
 </div>
 
@@ -417,7 +255,7 @@ const jimmy = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=your-username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OverflowX-tech&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=OverflowX-tech)
 
 </div>
 
@@ -432,10 +270,7 @@ const jimmy = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech)
 
 <br/><br/>
 
@@ -444,11 +279,13 @@ const jimmy = {
 
 <br/>
 
-<!-- Animated Snake -->
+<!-- Snake Animation - Uses OverflowX-tech's contributions -->
+<!-- To enable the snake animation, create a GitHub Action in your OverflowX-tech repo:
+     .github/workflows/snake.yml — see: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OverflowX-tech/OverflowX-tech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OverflowX-tech/OverflowX-tech/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/OverflowX-tech/OverflowX-tech/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
