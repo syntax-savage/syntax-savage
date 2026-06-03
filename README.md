@@ -155,6 +155,8 @@ const jimmy = {
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/loanwise)
 
+
+
 </details>
 
 </td>
@@ -272,6 +274,7 @@ const jimmy = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech)
 
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/OverflowXJimmy)
 <br/><br/>
 
 ### 💬 Random Dev Quote
