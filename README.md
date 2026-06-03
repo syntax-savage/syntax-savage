@@ -9,6 +9,9 @@
 <br/>
 
 <!-- Profile Badges -->
+<a href="https://devpost.com/OverflowXJimmy">
+  <img src="https://img.shields.io/badge/Devpost-5-003E54?style=for-the-badge&labelColor=1a1b27&logo=devpost&logoColor=white" alt="Devpost">
+</a>
 <a href="https://github.com/OverflowX-tech?tab=followers">
   <img src="https://img.shields.io/github/followers/OverflowX-tech?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1b27&logo=github" alt="GitHub Followers">
 </a>
