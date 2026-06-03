@@ -48,7 +48,7 @@ const jimmy = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OverflowX-tech&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&area_color=4ECDC4&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntax-savage&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&area_color=4ECDC4&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
