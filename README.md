@@ -4,18 +4,12 @@
 <!--  ✦ PREMIUM PROFILE BANNER — CLEAN & POWERFUL  -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<!-- ✦ HERO: Shark gradient header with name baked in -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,25:302b63,50:7B2FFF,75:302b63,100:0f0c29&height=250&section=header&text=JIMMY&fontSize=100&fontColor=00f5ff&animation=scaleIn&fontAlignY=40&stroke=7B2FFF&strokeWidth=3"/>
-
-<!-- ✦ ANIMATED IDENTITY — Smooth rotating titles -->
+<!-- ✦ HERO: Custom animated SVG banner (Self-hosted) -->
 <a href="https://github.com/syntax-savage">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%7B+syntax-savage+%7D;%7B+DR.CODE+%7D;%7B+Full+Stack+Architect+%7D" alt="Identity"/>
+  <img width="100%" src="./banner.svg" alt="syntax-savage banner"/>
 </a>
 
-<!-- ✦ TAGLINE — Elegant subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=20&duration=4000&pause=1500&color=E0AAFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=I+don't+build+apps.+I+build+solutions.;16+years+old.+15+repos.+Infinite+ambition.;Kotlin+%E2%80%A2+React+%E2%80%A2+Cloud+%E2%80%A2+AI" alt="Tagline"/>
-
-<br/><br/>
+<br/>
 
 <!-- ✦ BADGES — Clean row with spacing -->
 <a href="https://github.com/syntax-savage?tab=followers">
