@@ -19,6 +19,19 @@
       </feMerge>
     </filter>
 
+    <!-- Neon purple glow filter matching the brand accent color -->
+    <filter id="purpleGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.7   0 0 0 0 0   0 0 0 0 1  0 0 0 0.7 0" in="blur1" result="coloredBlur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur2"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.7   0 0 0 0 0   0 0 0 0 1  0 0 0 0.4 0" in="blur2" result="coloredBlur2"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur2"/>
+        <feMergeNode in="coloredBlur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
     <!-- Strong drop shadow for subtitle, roles, and motto readability -->
     <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.95"/>
@@ -148,21 +161,63 @@
     .star-d8 { animation-delay: 1.3s; }
 
     @keyframes borderPulse {
-      0%, 100% { stroke-opacity: 0.4; }
-      50% { stroke-opacity: 0.9; }
+      0%, 100% { stroke-opacity: 0.2; }
+      50% { stroke-opacity: 0.5; }
     }
     .border-glow {
       animation: borderPulse 3s ease-in-out infinite;
     }
 
-    @keyframes cornerBlink {
-      0%, 100% { opacity: 0.5; }
-      50% { opacity: 1; }
+    /* ═══ SNAKE BORDER ANIMATIONS ═══ */
+    @keyframes snakeCW {
+      0% { stroke-dashoffset: 3160; }
+      100% { stroke-dashoffset: 0; }
     }
-    .corner { animation: cornerBlink 2s ease-in-out infinite; }
-    .corner-d1 { animation-delay: 0.5s; }
-    .corner-d2 { animation-delay: 1s; }
-    .corner-d3 { animation-delay: 1.5s; }
+    @keyframes snakeCCW {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 3160; }
+    }
+    .snake-border-1 {
+      stroke: #00f5ff;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      filter: url(#neonGlow);
+      stroke-dasharray: 250 2910;
+      animation: snakeCW 8s linear infinite;
+    }
+    .snake-border-2 {
+      stroke: #bd00ff;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      filter: url(#purpleGlow);
+      stroke-dasharray: 250 2910;
+      animation: snakeCCW 8s linear infinite;
+    }
+
+    /* ═══ CORNER SNAKE ANIMATIONS ═══ */
+    @keyframes cornerSnake {
+      0% { stroke-dashoffset: 160; }
+      100% { stroke-dashoffset: 0; }
+    }
+    .corner-snake-1 {
+      stroke: #00f5ff;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      filter: url(#neonGlow);
+      stroke-dasharray: 25 135;
+      animation: cornerSnake 4s linear infinite;
+    }
+    .corner-snake-2 {
+      stroke: #bd00ff;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      filter: url(#purpleGlow);
+      stroke-dasharray: 25 135;
+      animation: cornerSnake 4s linear infinite;
+    }
+    .c-delay-1 { animation-delay: -1s; }
+    .c-delay-2 { animation-delay: -2s; }
+    .c-delay-3 { animation-delay: -3s; }
   </style>
 
   <!-- ═══ BACKGROUND ═══ -->
@@ -251,26 +306,30 @@
 
   <!-- ═══ CORNER ACCENTS ═══ -->
   <!-- Top-left -->
-  <g class="corner">
-    <line x1="20" y1="20" x2="60" y2="20" stroke="#00f5ff" stroke-width="1.5"/>
-    <line x1="20" y1="20" x2="20" y2="60" stroke="#00f5ff" stroke-width="1.5"/>
+  <g>
+    <path d="M 60,20 L 20,20 L 20,60" fill="none" stroke="#00f5ff" stroke-width="1.5" opacity="0.2"/>
+    <path class="corner-snake-1" d="M 60,20 L 20,20 L 20,60" fill="none"/>
   </g>
   <!-- Top-right -->
-  <g class="corner corner-d1">
-    <line x1="1140" y1="20" x2="1180" y2="20" stroke="#7B2FFF" stroke-width="1.5"/>
-    <line x1="1180" y1="20" x2="1180" y2="60" stroke="#7B2FFF" stroke-width="1.5"/>
+  <g>
+    <path d="M 1140,20 L 1180,20 L 1180,60" fill="none" stroke="#7B2FFF" stroke-width="1.5" opacity="0.2"/>
+    <path class="corner-snake-2 c-delay-1" d="M 1140,20 L 1180,20 L 1180,60" fill="none"/>
   </g>
   <!-- Bottom-left -->
-  <g class="corner corner-d2">
-    <line x1="20" y1="380" x2="60" y2="380" stroke="#7B2FFF" stroke-width="1.5"/>
-    <line x1="20" y1="340" x2="20" y2="380" stroke="#7B2FFF" stroke-width="1.5"/>
+  <g>
+    <path d="M 20,340 L 20,380 L 60,380" fill="none" stroke="#7B2FFF" stroke-width="1.5" opacity="0.2"/>
+    <path class="corner-snake-2 c-delay-3" d="M 20,340 L 20,380 L 60,380" fill="none"/>
   </g>
   <!-- Bottom-right -->
-  <g class="corner corner-d3">
-    <line x1="1140" y1="380" x2="1180" y2="380" stroke="#00f5ff" stroke-width="1.5"/>
-    <line x1="1180" y1="340" x2="1180" y2="380" stroke="#00f5ff" stroke-width="1.5"/>
+  <g>
+    <path d="M 1180,340 L 1180,380 L 1140,380" fill="none" stroke="#00f5ff" stroke-width="1.5" opacity="0.2"/>
+    <path class="corner-snake-1 c-delay-2" d="M 1180,340 L 1180,380 L 1140,380" fill="none"/>
   </g>
 
   <!-- ═══ PULSING BORDER ═══ -->
   <rect class="border-glow" x="5" y="5" width="1190" height="390" rx="0" fill="none" stroke="#00f5ff" stroke-width="1"/>
+
+  <!-- ═══ SNAKE BORDERS ═══ -->
+  <rect class="snake-border-1" x="5" y="5" width="1190" height="390" rx="0" fill="none"/>
+  <rect class="snake-border-2" x="5" y="5" width="1190" height="390" rx="0" fill="none"/>
 </svg>
