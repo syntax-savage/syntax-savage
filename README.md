@@ -132,14 +132,28 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 </tr>
 </table>
 
-<!-- Kotlin stack spotlight banner with Kotlin 2.0 logo & Jetpack Compose logo -->
-<br/>
-
-![Kotlin](https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Room](https://img.shields.io/badge/Room_Database-0a7ea4?style=for-the-badge&logo=android&logoColor=white)
-![KSP](https://img.shields.io/badge/KSP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+<!-- ✦ SPOTLIGHT: Kotlin & Compose Stack -->
+<p align="center">
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin 2.0"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.android.com/jetpack/compose">
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.android.com/training/data-storage/room">
+    <img src="https://img.shields.io/badge/Room_Database-0a7ea4?style=for-the-badge&logo=android&logoColor=white" alt="Room DB"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kotlinlang.org/docs/ksp-overview.html">
+    <img src="https://img.shields.io/badge/KSP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KSP"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gradle.org/">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+  </a>
+</p>
 
 </div>
 
@@ -547,9 +561,9 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syntax-savage/syntax-savage/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syntax-savage/syntax-savage/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/syntax-savage/syntax-savage/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
