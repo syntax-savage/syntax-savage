@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <!-- ✦ HERO: Custom animated SVG banner (Self-hosted) -->
-[![syntax-savage banner](banner.svg?v=2)](https://github.com/syntax-savage)
+[![syntax-savage banner](banner.svg?v=5)](https://github.com/syntax-savage)
 
 <br/>
 
