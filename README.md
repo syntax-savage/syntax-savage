@@ -1,24 +1,34 @@
 <div align="center">
 
-<!-- Anime-Style Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=280&section=header&text=JIMMY&fontSize=90&fontColor=00f5ff&animation=blinking&fontAlignY=38&stroke=7B2FFF&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20AI%20Builder&descSize=17&descAlignY=60&descAlign=50&descColor=e0aaff"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 DISCORD NITRO-STYLE PREMIUM ANIMATED BANNER                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Anime glitch-style typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Coding+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Building+AI+that+saves+lives;%F0%9F%9A%80+From+napkin+sketch+to+deployed+app;%E2%98%81%EF%B8%8F+Architecting+scalable+cloud+systems;%F0%9F%A4%96+Kotlin+%7C+React+%7C+Cloud+%7C+AI)](https://git.io/typing-svg)
+<!-- Layer 1: Cosmic Waveform Background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,15:1a0a3e,30:302b63,50:7B2FFF,70:302b63,85:1a0a3e,100:0f0c29&height=300&section=header&text=⚡%20JIMMY%20⚡&fontSize=85&fontColor=00f5ff&animation=fadeIn&fontAlignY=32&stroke=7B2FFF&strokeWidth=4&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descSize=12&descAlignY=52&descAlign=50&descColor=7B2FFF"/>
+
+<!-- Layer 2: Animated Glitch Title -->
+<a href="https://github.com/syntax-savage">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%E2%9A%A1+SYNTAX+SAVAGE+%E2%9A%A1;%F0%9F%94%A5+DR.CODE+%F0%9F%94%A5;%F0%9F%92%80+FULL+STACK+ARCHITECT+%F0%9F%92%80" alt="Animated Title"/>
+</a>
+
+<!-- Layer 3: Premium Subtitle Glow -->
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=2000&pause=600&color=E0AAFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Forging+the+future+with+every+keystroke;%F0%9F%94%A5+Building+AI+that+saves+lives;%F0%9F%9A%80+From+napkin+sketch+to+deployed+app;%E2%98%81%EF%B8%8F+Cloud+%7C+Android+%7C+AI+%7C+Full+Stack;%F0%9F%8E%AF+16+yo+dev+%7C+15+repos+%7C+Infinite+ambition" alt="Subtitle"/>
+
+<!-- Layer 4: Animated Neon Divider -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <br/>
 
 <!-- Neon-glow profile badges -->
-<a href="https://devpost.com/OverflowXJimmy">
-  <img src="https://img.shields.io/badge/Devpost-57_Hackathons-003E54?style=for-the-badge&labelColor=0d0d1a&logo=devpost&logoColor=00f5ff" alt="Devpost">
+<a href="https://github.com/syntax-savage?tab=followers">
+  <img src="https://img.shields.io/github/followers/syntax-savage?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="GitHub Followers">
 </a>
-<a href="https://github.com/OverflowX-tech?tab=followers">
-  <img src="https://img.shields.io/github/followers/OverflowX-tech?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="GitHub Followers">
+<img src="https://komarev.com/ghpvc/?username=syntax-savage&label=PROFILE+VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Profile Views">
+<a href="https://github.com/syntax-savage?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-15-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repositories">
 </a>
-<img src="https://komarev.com/ghpvc/?username=OverflowX-tech&label=PROFILE+VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Profile Views">
-<a href="https://github.com/OverflowX-tech?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-5-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repositories">
-</a>
+<img src="https://img.shields.io/badge/PRO-Developer-FFD700?style=for-the-badge&labelColor=0d0d1a&logo=github&logoColor=FFD700" alt="Pro">
 
 </div>
 
@@ -34,6 +44,7 @@
 // ⚡ Jimmy.kt — Main character loading...
 data class Jimmy(
     val pronouns: String           = "He / Him",
+    val alias: String              = "syntax-savage | DR.Code",
     val role: String               = "Full Stack Dev & Cloud Architect",
     val motto: String              = "I don't build apps. I build solutions.",
     val languages: List<String>    = listOf("Kotlin", "JavaScript", "Java", "Groovy", "SQL"),
@@ -51,7 +62,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OverflowX-tech&bg_color=0d1117&color=00f5ff&line=7B2FFF&point=e0aaff&area=true&area_color=7B2FFF&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntax-savage&bg_color=0d1117&color=00f5ff&line=7B2FFF&point=e0aaff&area=true&area_color=7B2FFF&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
@@ -64,9 +75,9 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-<!-- Core skill icons -->
+<!-- Core skill icons — now with Kotlin & Jetpack Compose -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,android,aws,gcp,azure,firebase,git,gradle,mysql&theme=dark&perline=7" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,react,nodejs,java,firebase,git,gradle,mysql,aws,gcp,azure&theme=dark&perline=8" alt="Tech Stack"/>
 </a>
 
 <br/><br/>
@@ -127,7 +138,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 </tr>
 </table>
 
-<!-- Kotlin stack spotlight banner -->
+<!-- Kotlin stack spotlight banner with Kotlin 2.0 logo & Jetpack Compose logo -->
 <br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -152,12 +163,250 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<!-- Project 1: LoanWise -->
+<!-- Project 1: SignalRepair -->
 <table>
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/OverflowX-tech/loanwise"><img src="https://img.shields.io/badge/🏦-LoanWise_v2-FF6B6B?style=for-the-badge&labelColor=0d0d1a" alt="LoanWise"/></a>
+### <a href="https://github.com/syntax-savage/signalrepair"><img src="https://img.shields.io/badge/📡-SignalRepair-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="SignalRepair"/></a>
+
+> #### *"Predict signal failures before they happen."*
+
+💡 **The Problem:** Dropped calls and dead Wi-Fi zones plague millions daily. Users only realize their connection is failing *after* it's already gone — leading to lost work, missed calls, and frustration.
+
+🚀 **The Solution:** SignalRepair continuously collects cellular & Wi-Fi telemetry, predicts signal deterioration using trend analysis, and provides **AI-generated troubleshooting recommendations** before failures occur.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 📊 Real-Time Telemetry | Continuous cellular & Wi-Fi signal strength monitoring |
+| 🔮 Predictive Analysis | Trend-based signal deterioration prediction engine |
+| 🤖 AI Troubleshooting | AI-generated fix recommendations before failure |
+| 📈 Signal History | Historical signal maps and performance analytics |
+
+**Tech:** `Kotlin 2.0` · `Jetpack Compose` · `Room DB` · `ML Kit`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/signalrepair)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 2: BharatOne -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/BharatOne1"><img src="https://img.shields.io/badge/🇮🇳-BharatOne-FF9933?style=for-the-badge&labelColor=0d0d1a" alt="BharatOne"/></a>
+
+> #### *"Bridging citizens and public safety — one tap at a time."*
+
+💡 **The Problem:** In emergencies, citizens struggle to reach the right authorities quickly. Fragmented government helplines and lack of unified reporting leads to delayed response times.
+
+🚀 **The Solution:** BharatOne is a secure, state-of-the-art Android application engineered to bridge the gap between citizens and public safety administration — built as a high-performance solution for the Government.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🚨 Emergency SOS | One-tap emergency alert with GPS location sharing |
+| 📋 Incident Reporting | Structured, categorized report filing with media attach |
+| 🗺️ Live Tracking | Real-time GPS tracking for emergency responders |
+| 🔐 Secure Auth | Government-grade security with encrypted communications |
+
+**Tech:** `Kotlin 2.0` · `Jetpack Compose` · `Firebase` · `Google Maps API`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/BharatOne1)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 3: Craving.lol -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/Craving.lol"><img src="https://img.shields.io/badge/🍔-Craving.lol-FF6B6B?style=for-the-badge&labelColor=0d0d1a" alt="Craving.lol"/></a>
+
+> #### *"Tell it what you're craving. Get roasted by AI. Find it anyway."*
+
+💡 **The Problem:** Food discovery apps are boring and predictable. They lack personality, engagement, and the fun factor that keeps users coming back.
+
+🚀 **The Solution:** An unhinged, dark-themed Android app that brutally roasts your food cravings with AI-powered humor — then finds the nearest spot to satisfy them anyway. Powered by **Groq LLM, ElevenLabs TTS**, and OpenStreetMap.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🤖 AI Roast Engine | Groq LLM generates savage, hilarious roasts for your cravings |
+| 🗣️ Voice Roasts | ElevenLabs TTS reads roasts aloud with personality |
+| 🗺️ Nearby Finder | OpenStreetMap integration to locate food spots |
+| 🌙 Dark Theme | Premium dark-themed UI with smooth animations |
+
+**Tech:** `Kotlin` · `Jetpack Compose` · `Groq LLM` · `ElevenLabs TTS` · `OpenStreetMap`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/Craving.lol)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 4: Melofy -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/melofy"><img src="https://img.shields.io/badge/🎵-Melofy-7B2FFF?style=for-the-badge&labelColor=0d0d1a" alt="Melofy"/></a>
+
+> #### *"The cyberpunk music experience you didn't know you needed."*
+
+💡 **The Problem:** Mainstream music apps look generic and feel uninspired. The streaming experience hasn't evolved visually in years.
+
+🚀 **The Solution:** Melofy is a futuristic, premium **Cyberpunk music and podcast streaming** Android app built with Jetpack Compose — featuring a stunning glassmorphic UI, low-latency audio playback, and dynamic YouTube podcast integration.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🎨 Glassmorphic UI | Stunning cyberpunk-themed glassmorphism design |
+| ⚡ Low-Latency Audio | High-performance audio engine for seamless playback |
+| 🎙️ Podcast Streaming | Dynamic YouTube podcast integration |
+| 🌈 Visual Equalizer | Real-time audio visualization with cyberpunk aesthetics |
+
+**Tech:** `Kotlin 2.0` · `Jetpack Compose` · `ExoPlayer` · `YouTube API`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/melofy)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 5: Walkie-Talkie -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/-Walkie-Talkie-App-Native-Android-P2P-Voice-Communicator"><img src="https://img.shields.io/badge/📻-Walkie_Talkie-3DDC84?style=for-the-badge&labelColor=0d0d1a" alt="Walkie-Talkie"/></a>
+
+> #### *"Real-time voice. Zero internet. Pure connection."*
+
+💡 **The Problem:** Communication in areas with no cellular or Wi-Fi coverage is nearly impossible with standard apps. Emergency scenarios, outdoor adventures, and industrial sites need offline voice solutions.
+
+🚀 **The Solution:** A native Android **peer-to-peer voice communicator** enabling instant real-time audio streaming — operating fully offline using local Bluetooth RFCOMM sockets with crystal-clear audio.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 📡 Bluetooth P2P | Direct device-to-device communication via RFCOMM |
+| 🔇 Offline Mode | Zero internet dependency — works anywhere |
+| 🎙️ Crystal Audio | High-quality audio capture and streaming |
+| ⚡ Low Latency | Near-instant push-to-talk response time |
+
+**Tech:** `Kotlin` · `Android Bluetooth API` · `RFCOMM` · `AudioRecord`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/-Walkie-Talkie-App-Native-Android-P2P-Voice-Communicator)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 6: WriteRight AI -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/WriteRight-AI-"><img src="https://img.shields.io/badge/✍️-WriteRight_AI-e0aaff?style=for-the-badge&labelColor=0d0d1a" alt="WriteRight AI"/></a>
+
+> #### *"Your AI writing assistant — everywhere you type."*
+
+💡 **The Problem:** Writers context-switch between their work and separate AI tools constantly. Copy-pasting between apps kills flow and creativity.
+
+🚀 **The Solution:** WriteRight AI is a premium browser extension that injects a writing assistant **directly beside your cursor** in every text field, textarea, and contenteditable frame on the web.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🎯 Inline Assist | AI suggestions appear right at your cursor position |
+| 🌐 Universal Support | Works in every text field across the entire web |
+| ⚡ Real-Time | Instant suggestions with zero page reload |
+| 🎨 Clean UI | Minimal, non-intrusive design that blends with any site |
+
+**Tech:** `JavaScript` · `Chrome Extension (MV3)` · `AI/ML API`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/WriteRight-AI-)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 7: SpeedUp -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/SpeedUp-v1.0"><img src="https://img.shields.io/badge/⏩-SpeedUp_v1.0-FFD700?style=for-the-badge&labelColor=0d0d1a" alt="SpeedUp"/></a>
+
+> #### *"Control every video. Any speed. Any site."*
+
+💡 **The Problem:** Browser-native video speed controls are limited and clunky. Most sites cap at 2x, and there's no way to fine-tune playback across tabs.
+
+🚀 **The Solution:** SpeedUp is a **Manifest V3 Chrome extension** for advanced HTML5 video speed control — play any video from 0.25x to 16x with smart pitch handling, Shadow DOM support, per-tab isolation, and a sleek dark UI.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| ⚡ 0.25x–16x Range | Ultra-wide speed control for any HTML5 video |
+| 🎵 Smart Pitch | Pitch-corrected audio at any playback speed |
+| 🌑 Shadow DOM | Works on sites using Shadow DOM (YouTube, Netflix) |
+| 🖥️ Per-Tab Isolation | Independent speed settings for each browser tab |
+
+**Tech:** `JavaScript` · `Chrome Extension (MV3)` · `Web Audio API`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/SpeedUp-v1.0)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 8: LoanWise -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/syntax-savage/loanwise"><img src="https://img.shields.io/badge/🏦-LoanWise_v2-FF6B6B?style=for-the-badge&labelColor=0d0d1a" alt="LoanWise"/></a>
 
 > #### *"Pay off student loans smarter, not harder."*
 
@@ -178,7 +427,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `React` · `Node.js` · `Firebase` · `SQL` · `Chart.js`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/loanwise)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/loanwise)
 
 </details>
 
@@ -186,12 +435,12 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 </tr>
 </table>
 
-<!-- Project 2: G-A-I-A -->
+<!-- Project 9: G-A-I-A -->
 <table>
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/OverflowX-tech/G-A-I-A"><img src="https://img.shields.io/badge/🌍-G--A--I--A-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="G-A-I-A"/></a>
+### <a href="https://github.com/syntax-savage/G-A-I-A"><img src="https://img.shields.io/badge/🌍-G--A--I--A-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="G-A-I-A"/></a>
 
 > #### *"AI-powered insights to predict where help is needed most."*
 
@@ -212,7 +461,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `React` · `Node.js` · `Azure` · `Firebase` · `ML Models`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/G-A-I-A)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/G-A-I-A)
 
 </details>
 
@@ -220,12 +469,12 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 </tr>
 </table>
 
-<!-- Project 3: NullByte -->
+<!-- Project 10: NullByte -->
 <table>
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/OverflowX-tech/NullByte"><img src="https://img.shields.io/badge/🧠-NullByte-7B2FFF?style=for-the-badge&labelColor=0d0d1a" alt="NullByte"/></a>
+### <a href="https://github.com/syntax-savage/NullByte"><img src="https://img.shields.io/badge/🧠-NullByte-7B2FFF?style=for-the-badge&labelColor=0d0d1a" alt="NullByte"/></a>
 
 > #### *"Zero in on bugs. Zero tolerance for broken code."*
 
@@ -246,7 +495,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 **Tech:** `JavaScript` · `Node.js` · `Git` · `AI/ML`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/NullByte)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage/NullByte)
 
 </details>
 
@@ -264,12 +513,12 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OverflowX-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverflowX-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=syntax-savage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntax-savage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OverflowX-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=syntax-savage&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
 
 </div>
 
@@ -279,7 +528,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OverflowX-tech&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=OverflowX-tech)
+[![trophy](https://github-profile-trophy.vercel.app/?username=syntax-savage&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github-profile-trophy.vercel.app/?username=syntax-savage)
 
 </div>
 
@@ -293,8 +542,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=00f5ff)](https://devpost.com/OverflowXJimmy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-savage)
 
 <br/><br/>
 
@@ -314,5 +562,5 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<!-- Anime-style Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&fontColor=00f5ff&stroke=7B2FFF&strokeWidth=2"/>
+<!-- Premium Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,15:1a0a3e,30:302b63,50:7B2FFF,70:302b63,85:1a0a3e,100:0f0c29&height=150&section=footer&text=syntax-savage&fontSize=30&fontColor=00f5ff&animation=twinkling&stroke=7B2FFF&strokeWidth=2"/>
