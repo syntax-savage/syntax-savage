@@ -214,13 +214,7 @@
   <circle class="particle-9" cx="950" cy="400" r="2" fill="#e0aaff" filter="url(#softGlow)"/>
   <circle class="particle-10" cx="500" cy="400" r="1.5" fill="#00f5ff" filter="url(#softGlow)"/>
 
-  <!-- ═══ LIGHTNING BOLT LEFT ═══ -->
-  <g class="lightning">
-    <polyline points="180,0 170,100 195,100 160,200" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.6"/>
-  </g>
-  <g class="lightning-2">
-    <polyline points="1020,0 1030,100 1005,100 1040,200" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.6"/>
-  </g>
+
 
   <!-- ═══ MAIN NAME ═══ -->
   <g class="name-text" filter="url(#neonGlow)">
