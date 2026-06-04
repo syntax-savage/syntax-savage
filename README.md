@@ -1,59 +1,61 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=220&section=header&text=Jimmy&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20AI%20Builder&descSize=18&descAlignY=55&descAlign=50"/>
+<!-- Anime-Style Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=280&section=header&text=JIMMY&fontSize=90&fontColor=00f5ff&animation=blinking&fontAlignY=38&stroke=7B2FFF&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20AI%20Builder&descSize=17&descAlignY=60&descAlign=50&descColor=e0aaff"/>
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Building+AI+that+saves+lives;%F0%9F%9A%80+Shipping+code+that+solves+problems;%E2%98%81%EF%B8%8F+Architecting+scalable+cloud+systems;%F0%9F%A4%96+Turning+ideas+into+real+products)](https://git.io/typing-svg)
+<!-- Anime glitch-style typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Coding+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Building+AI+that+saves+lives;%F0%9F%9A%80+From+napkin+sketch+to+deployed+app;%E2%98%81%EF%B8%8F+Architecting+scalable+cloud+systems;%F0%9F%A4%96+Kotlin+%7C+React+%7C+Cloud+%7C+AI)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Badges -->
+<!-- Neon-glow profile badges -->
 <a href="https://devpost.com/OverflowXJimmy">
-  <img src="https://img.shields.io/badge/Devpost-57_Hackathons-003E54?style=for-the-badge&labelColor=1a1b27&logo=devpost&logoColor=white" alt="Devpost">
+  <img src="https://img.shields.io/badge/Devpost-57_Hackathons-003E54?style=for-the-badge&labelColor=0d0d1a&logo=devpost&logoColor=00f5ff" alt="Devpost">
 </a>
 <a href="https://github.com/OverflowX-tech?tab=followers">
-  <img src="https://img.shields.io/github/followers/OverflowX-tech?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1b27&logo=github" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/OverflowX-tech?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="GitHub Followers">
 </a>
-<img src="https://komarev.com/ghpvc/?username=OverflowX-tech&label=PROFILE+VIEWS&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=OverflowX-tech&label=PROFILE+VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Profile Views">
 <a href="https://github.com/OverflowX-tech?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-5-45B7D1?style=for-the-badge&labelColor=1a1b27&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Repos-5-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repositories">
 </a>
 
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```js
-const jimmy = {
-    pronouns: "He" | "Him",
-    role: "Full Stack Developer & Cloud Architect",
-    motto: "I don't build apps. I build solutions.",
-    code: ["JavaScript", "Java", "Groovy", "HTML", "CSS", "SQL", "XML"],
-    cloud: ["AWS ☁️", "GCP 🌐", "Azure 🔷"],
-    tools: ["React", "Node.js", "Android", "Firebase", "Git"],
-    architecture: ["microservices", "serverless", "event-driven", "SPA"],
-    currentFocus: "Building AI-powered apps that create real-world impact",
-    funFact: "I can go from napkin sketch to deployed app before lunch 🍕"
-};
+```kotlin
+// ⚡ Jimmy.kt — Main character loading...
+data class Jimmy(
+    val pronouns: String           = "He / Him",
+    val role: String               = "Full Stack Dev & Cloud Architect",
+    val motto: String              = "I don't build apps. I build solutions.",
+    val languages: List<String>    = listOf("Kotlin", "JavaScript", "Java", "Groovy", "SQL"),
+    val mobile: List<String>       = listOf("Android", "Jetpack Compose", "KSP", "Room"),
+    val cloud: List<String>        = listOf("AWS ☁️", "GCP 🌐", "Azure 🔷"),
+    val tools: List<String>        = listOf("React", "Node.js", "Firebase", "Git", "Gradle"),
+    val architecture: List<String> = listOf("microservices", "serverless", "MVVM", "Clean Arch"),
+    val currentFocus: String       = "AI-powered apps that create real-world impact",
+    val funFact: String            = "Napkin sketch → deployed app before lunch 🍕"
+)
+
+fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 ```
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntax-savage&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&area_color=4ECDC4&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OverflowX-tech&bg_color=0d1117&color=00f5ff&line=7B2FFF&point=e0aaff&area=true&area_color=7B2FFF&hide_border=true&custom_title=Jimmy's%20Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -62,25 +64,23 @@ const jimmy = {
 
 <div align="center">
 
-<!-- Skill Icons -->
+<!-- Core skill icons -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,android,aws,gcp,azure,firebase,git,gradle,mysql&theme=dark&perline=7" alt="Tech Stack"/>
 </a>
 
 <br/><br/>
 
-<!-- Detailed Skill Breakdown -->
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Frontend & Mobile
+### 🌐 Frontend & Web
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white"/>
 </p>
 
@@ -98,26 +98,48 @@ const jimmy = {
 
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
+<td width="50%">
+
+### 🤖 Android & Kotlin Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room_DB-0a7ea4?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KSP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
 
 ### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 </td>
 </tr>
 </table>
 
+<!-- Kotlin stack spotlight banner -->
+<br/>
+
+![Kotlin](https://img.shields.io/badge/Kotlin_2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room_Database-0a7ea4?style=for-the-badge&logo=android&logoColor=white)
+![KSP](https://img.shields.io/badge/KSP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -135,11 +157,11 @@ const jimmy = {
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/OverflowX-tech/loanwise"><img src="https://img.shields.io/badge/🏦-LoanWise_v2-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="LoanWise"/></a>
+### <a href="https://github.com/OverflowX-tech/loanwise"><img src="https://img.shields.io/badge/🏦-LoanWise_v2-FF6B6B?style=for-the-badge&labelColor=0d0d1a" alt="LoanWise"/></a>
 
 > #### *"Pay off student loans smarter, not harder."*
 
-💡 **The Problem:** Millions of students drown in loan debt because they lack tools to create optimized repayment strategies. Complex interest calculations and confusing terms lead to thousands in unnecessary overpayment.
+💡 **The Problem:** Millions of students drown in loan debt because they lack tools to create optimized repayment strategies. Complex interest calculations lead to thousands in unnecessary overpayment.
 
 🚀 **The Solution:** LoanWise analyzes loan terms, interest rates, and repayment options to generate **AI-optimized payoff strategies** — saving users thousands of dollars and years of stress.
 
@@ -158,8 +180,6 @@ const jimmy = {
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech/loanwise)
 
-
-
 </details>
 
 </td>
@@ -171,7 +191,7 @@ const jimmy = {
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/OverflowX-tech/G-A-I-A"><img src="https://img.shields.io/badge/🌍-G--A--I--A-4ECDC4?style=for-the-badge&labelColor=1a1b27" alt="G-A-I-A"/></a>
+### <a href="https://github.com/OverflowX-tech/G-A-I-A"><img src="https://img.shields.io/badge/🌍-G--A--I--A-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="G-A-I-A"/></a>
 
 > #### *"AI-powered insights to predict where help is needed most."*
 
@@ -205,11 +225,11 @@ const jimmy = {
 <tr>
 <td width="100%">
 
-### <a href="https://github.com/OverflowX-tech/NullByte"><img src="https://img.shields.io/badge/🧠-NullByte-45B7D1?style=for-the-badge&labelColor=1a1b27" alt="NullByte"/></a>
+### <a href="https://github.com/OverflowX-tech/NullByte"><img src="https://img.shields.io/badge/🧠-NullByte-7B2FFF?style=for-the-badge&labelColor=0d0d1a" alt="NullByte"/></a>
 
 > #### *"Zero in on bugs. Zero tolerance for broken code."*
 
-💡 **The Problem:** Developers spend up to 50% of their time debugging. Traditional debugging tools are clunky, fragmented, and require context-switching between multiple windows and tools.
+💡 **The Problem:** Developers spend up to 50% of their time debugging. Traditional tools are clunky, fragmented, and require constant context-switching.
 
 🚀 **The Solution:** NullByte provides an **intelligent debugging and code analysis toolkit** that helps developers identify, understand, and fix issues faster — turning hours of debugging into minutes.
 
@@ -236,7 +256,6 @@ const jimmy = {
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -245,12 +264,12 @@ const jimmy = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OverflowX-tech&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=c9d1d9" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverflowX-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=OverflowX-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverflowX-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OverflowX-tech&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=4ECDC4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OverflowX-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff)](https://git.io/streak-stats)
 
 </div>
 
@@ -266,7 +285,6 @@ const jimmy = {
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -276,8 +294,8 @@ const jimmy = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OverflowX-tech)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=00f5ff)](https://devpost.com/OverflowXJimmy)
 
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/OverflowXJimmy)
 <br/><br/>
 
 ### 💬 Random Dev Quote
@@ -296,5 +314,5 @@ const jimmy = {
 
 <br/>
 
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer"/>
+<!-- Anime-style Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&fontColor=00f5ff&stroke=7B2FFF&strokeWidth=2"/>
