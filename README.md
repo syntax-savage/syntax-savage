@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
 <br/>
 
@@ -59,7 +59,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
 <br/>
 
@@ -157,7 +157,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
 <br/>
 
@@ -511,7 +511,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
 <br/>
 
@@ -540,7 +540,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
 <br/>
 
