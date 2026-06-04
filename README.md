@@ -1,71 +1,34 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡🔥 DISCORD NITRO-STYLE PREMIUM ANIMATED BANNER — MAXIMUM EFFORT 🔥⚡ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--  ✦ PREMIUM PROFILE BANNER — CLEAN & POWERFUL  -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<!-- ░░░ LAYER 1: Twinkling Venom Header ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,10:1a0a3e,25:302b63,40:7B2FFF,55:00f5ff,70:7B2FFF,85:302b63,100:0f0c29&height=300&section=header&text=&fontSize=1&fontColor=00f5ff&animation=twinkling&fontAlignY=35"/>
+<!-- ✦ HERO: Shark gradient header with name baked in -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,25:302b63,50:7B2FFF,75:302b63,100:0f0c29&height=250&section=header&text=JIMMY&fontSize=100&fontColor=00f5ff&animation=scaleIn&fontAlignY=40&stroke=7B2FFF&strokeWidth=3"/>
 
-<!-- ░░░ LAYER 2: ⚡ LIGHTNING NAME SHOWCASE ⚡ -->
-<!-- Custom GIFs flanking the animated name for a premium symmetrical look -->
-<table>
-<tr>
-<td width="15%" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ1NHRzMjByaW1oeWhvYnRsb2s3ZGZ6NXh5YzgwOTh4bWQxd29pZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfS2zJ8N9i9yu4tbes/giphy.gif" width="100"/>
-</td>
-<td width="70%" align="center">
-  <a href="https://github.com/syntax-savage">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=75&lines=%E2%9A%A1+JIMMY+%E2%9A%A1;SYNTAX+SAVAGE;DR.CODE" alt="Animated Name"/>
-  </a>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=20&duration=2000&pause=500&color=E0AAFF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Full+Stack+Developer+%7C+Cloud+Architect+%7C+AI+Builder;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat;16+yo+dev+%7C+15+repos+%7C+%E2%88%9E+ambition" alt="Subtitle"/>
-</td>
-<td width="15%" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ1NHRzMjByaW1oeWhvYnRsb2s3ZGZ6NXh5YzgwOTh4bWQxd29pZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfS2zJ8N9i9yu4tbes/giphy.gif" width="100"/>
-</td>
-</tr>
-</table>
+<!-- ✦ ANIMATED IDENTITY — Smooth rotating titles -->
+<a href="https://github.com/syntax-savage">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%7B+syntax-savage+%7D;%7B+DR.CODE+%7D;%7B+Full+Stack+Architect+%7D" alt="Identity"/>
+</a>
 
-<!-- ░░░ LAYER 3: Animated Lightning Wave ░░░ -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<!-- ✦ TAGLINE — Elegant subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=20&duration=4000&pause=1500&color=E0AAFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=I+don't+build+apps.+I+build+solutions.;16+years+old.+15+repos.+Infinite+ambition.;Kotlin+%E2%80%A2+React+%E2%80%A2+Cloud+%E2%80%A2+AI" alt="Tagline"/>
 
-<!-- ░░░ LAYER 4: Coding GIF + Holographic Terminal Text ░░░ -->
-<table>
-<tr>
-<td width="25%" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdiYnM1aHV5OXRvbnI1Mm1rZHI3c2hmYWpubDhnbHZwOHN1YWZnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlLP5fowu9vAbUk/giphy.gif" width="150"/>
-</td>
-<td width="75%" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=400&color=7B2FFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+FORGING+THE+FUTURE+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+BUILDING+AI+THAT+SAVES+LIVES+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+FROM+NAPKIN+TO+PRODUCTION+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Terminal Text"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%98%81%EF%B8%8F+Cloud+%E2%80%A2+%F0%9F%A4%96+Android+%E2%80%A2+%F0%9F%A7%A0+AI+%E2%80%A2+%F0%9F%9A%80+Full+Stack;%F0%9F%92%8E+Kotlin+2.0+%E2%80%A2+Jetpack+Compose+%E2%80%A2+React+%E2%80%A2+Node.js" alt="Tech Stack"/>
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<!-- ░░░ LAYER 5: Animated RGB Wave ░░░ -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-<br/>
-
-<!-- ░░░ LAYER 6: Premium Glowing Neon Badges ░░░ -->
+<!-- ✦ BADGES — Clean row with spacing -->
 <a href="https://github.com/syntax-savage?tab=followers">
-  <img src="https://img.shields.io/github/followers/syntax-savage?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/syntax-savage?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0d0d1a&logo=github&logoColor=white" alt="Followers">
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=syntax-savage&label=PROFILE+VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Profile Views">
-&nbsp;
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=syntax-savage&label=VIEWS&style=for-the-badge&color=00f5ff&labelColor=0d0d1a" alt="Views">
+&nbsp;&nbsp;
 <a href="https://github.com/syntax-savage?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-15-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Repos-15-e0aaff?style=for-the-badge&labelColor=0d0d1a&logo=github" alt="Repos">
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_PRO-Developer-FFD700?style=for-the-badge&labelColor=0d0d1a&logo=githubsponsors&logoColor=FFD700" alt="Pro">
-&nbsp;
-<img src="https://img.shields.io/badge/🔥_NITRO-Boosted-FF73FA?style=for-the-badge&labelColor=0d0d1a&logo=discord&logoColor=FF73FA" alt="Nitro">
-
-<!-- ░░░ LAYER 7: Electric Pulse Bar ░░░ -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PRO-⚡-FFD700?style=for-the-badge&labelColor=0d0d1a&logo=githubsponsors&logoColor=FFD700" alt="Pro">
 
 </div>
 
